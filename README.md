@@ -6,7 +6,7 @@
 
 ### 🤖 I Build Agentic AI Systems That Get You Results
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=LangGraph+%7C+RAG+Pipelines+%7C+LLMs;FastAPI+%7C+Pinecone+%7C+OpenAI+%7C+Gemini;6%2B+Years+%7C+US+%C2%B7+UK+%C2%B7+UAE+Clients;Open+to+Remote+Roles+%E2%80%94+US+%C2%B7+UK+%C2%B7+EU+%C2%B7+Canada)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=LangGraph+%7C+RAG+Pipelines+%7C+LLMs;FastAPI+%7C+Pinecone+%7C+OpenAI+%7C+Gemini;6%2B+Years+%7C+US+%C2%B7+UK+%C2%B7+UAE+Clients;Open+to+Remote+Roles+%F0%9F%9F%A2)](https://git.io/typing-svg)
 
 </div>
 
